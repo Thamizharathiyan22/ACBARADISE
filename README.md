@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a UI structured Flutter application which is gona to be a online AC selling app .Authentication portion of this app is not connected with the app working and Its primairly to show case our flutter skills.
 
 A few resources to get you started if this is your first Flutter project:
 
